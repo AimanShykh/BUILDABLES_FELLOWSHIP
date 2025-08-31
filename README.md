@@ -12,10 +12,10 @@ Each week introduces a new project designed to strengthen my understanding of AI
 AI-Fellowship/
 │
 ├── Week-01/
-│   └── Text Summarizer with Tokenization Analysis/    # Introduction to LLM's, Transformers Architecture and Tokenization
+│   └── Introduction to LLM's, Transformers Architecture and Tokenization
 │
 ├── Week-02/
-│   └── Basic terminal Chatbot and ChatBot Web app/    # Conversational-llms 
+│   └── Conversational-llms 
 │
 
 ```
