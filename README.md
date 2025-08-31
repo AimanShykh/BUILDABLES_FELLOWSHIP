@@ -24,8 +24,8 @@ AI-Fellowship/
 
 ## 🗓 Weekly Highlights
 
-* **Week 01** → Introduction to LLM's, Transformers Architecture and Tokenization
-* **Week 02** → Conversational-llms 
+* **Week 01** → Text Summarization Web App With Tokenization Analysis
+* **Week 02** → Basic CLI Chat Assistant and Web-based Chatbot with different system prompts.
 
 ---
 
