@@ -12,10 +12,10 @@ Each week introduces a new project designed to strengthen my understanding of AI
 AI-Fellowship/
 │
 ├── Week-01/
-│   └── project-name/    # Introductory project with description & code
+│   └── Text Summarizer with Tokenization Analysis/    # Introduction to LLM's, Transformers Architecture and Tokenization
 │
 ├── Week-02/
-│   └── project-name/    # Focused on concept 2
+│   └── Basic terminal Chatbot and ChatBot Web app/    # Conversational-llms 
 │
 
 ```
@@ -24,8 +24,8 @@ AI-Fellowship/
 
 ## 🗓 Weekly Highlights
 
-* **Week 01** → Introduction to AI concepts & simple ML project
-* **Week 02** → Data preprocessing & model building basics
+* **Week 01** → Introduction to LLM's, Transformers Architecture and Tokenization
+* **Week 02** → Conversational-llms 
 
 ---
 
