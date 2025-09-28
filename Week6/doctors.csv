@@ -1,0 +1,6 @@
+DoctorName,Specialization,AvailableDays,AvailableTime,Contact
+Dr. Ayesha Khan,Cardiologist,Mon-Wed-Fri,10 AM - 2 PM,ayesha.khan@hospital.com
+Dr. Salman Ahmed,Orthopedic,Tue-Thu-Sat,12 PM - 4 PM,salman.ahmed@hospital.com
+Dr. Maria Iqbal,Pediatrician,Mon-Fri,9 AM - 1 PM,maria.iqbal@hospital.com
+Dr. Imran Siddiqui,Dermatologist,Wed-Sat,3 PM - 6 PM,imran.siddiqui@hospital.com
+Dr. Hina Zafar,Gynecologist,Mon-Tue-Fri,11 AM - 3 PM,hina.zafar@hospital.com
